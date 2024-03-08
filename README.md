@@ -1,2 +1,2 @@
-# PES1UG21CS300_hello_world
+# PES1UG21CS268_hello_world
  Github actions tutorial
